@@ -1,3 +1,4 @@
+--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
 --Obtenir la liste des 10 villes les plus peuplées en 2012
 select ville_nom,ville_population_2012 from villes order by ville_population_2012 desc limit 10; 
 
